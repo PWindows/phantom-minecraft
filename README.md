@@ -1,56 +1,58 @@
 # Minecraft
 
-It’s a game about placing blocks and going on adventures
+Main advertisement of PWindows Phantom
+**Main priority**
 
-It’s set in infinitely-generated worlds of wide open terrain - icy mountains, swampy bayous, vast pastures and much more - filled with secrets, wonders and peril!
+## Bedrock
 
-## [Bedrock](bedrock) Servers for Bedrock Minecraft (Windows 10, Windows 11, mobile, console)
+| Egg | Linux | Windows |
+|---|---|---|
+| [Bedrock](bedrock/bedrock) | ✅ | ❌ |
+| [gomint](bedrock/gomint) | ✅ | ❌ |
+| [LiteLoaderBDS](bedrock/LiteLoader-bedrock) | ✅ | ❌ |
+| [Nukkit](bedrock/nukkit) | ✅ | ❌ |
+| [PocketMine MP](bedrock/pocketmine_mp) | ✅ | ❌ |
 
-* [Bedrock](bedrock/bedrock)
-* [gomint](bedrock/gomint)
-* [LiteLoaderBDS](bedrock/LiteLoader-bedrock)
-* [Nukkit](bedrock/nukkit)
-* [PocketMine MP](bedrock/pocketmine_mp)
+## Java
 
-## [Java](java) Servers for Java Minecraft
+| Egg | Linux | Windows |
+|---|---|---|
+| [Cuberite](java/cuberite) | ✅ | ❌ |
+| [CurseForge](java/curseforge) | ✅ | ❌ |
+| [Fabric](java/fabric) | ✅ | ❌ |
+| [Feather](java/feather) | ✅ | ❌ |
+| [Forge](java/forge) | ✅ | ❌ |
+| [Feed The Beast](java/ftb) | ✅ | ❌ |
+| [Glowstone](java/glowstone) | ✅ | ❌ |
+| [Limbo](java/limbo) | ✅ | ❌ |
+| [Krypton](java/krypton) | ✅ | ❌ |
+| [Magma](java/magma) | ✅ | ❌ |
+| [Ketting](java/ketting) | ✅ | ❌ |
+| [Modrinth](java/modrinth) | ✅ | ❌ |
+| [Mohist](java/mohist) | ✅ | ❌ |
+| [NanoLimbo](java/nanolimbo) | ✅ | ❌ |
+| [NeoForge](java/neoforge) | ✅ | ❌ |
+| [Paper](java/paper) | ✅ | ❌ |
+| [Folia](java/folia) | ✅ | ❌ |
+| [Purpur](java/purpur) | ✅ | ❌ |
+| [Quilt](java/quilt/) | ✅ | ❌ |
+| [Spigot](java/spigot) | ✅ | ❌ |
+| [SpongeForge](java/spongeforge) | ✅ | ❌ |
+| [SpongeVanilla](java/spongevanilla) | ✅ | ❌ |
+| [Technic](java/technic) | ✅ | ❌ |
+| [Vanilla](java/vanilla) | ✅ | ❌ |
+| [VanillaCord](java/vanillacord) | ✅ | ❌ |
 
-* [Cuberite](java/cuberite)
-* [CurseForge](java/curseforge)
-* [Fabric](java/fabric)
-* [Feather](java/feather)
-* [Forge](java/forge)
-* [Feed The Beast](java/ftb)
-* [Glowstone](java/glowstone)
-* [Limbo](java/limbo)
-* [Krypton](java/krypton)
-* [Magma](java/magma)
-* [Ketting](java/ketting)
-* [Modrinth](java/modrinth)
-* [Mohist](java/mohist)
-* [NanoLimbo](java/nanolimbo)
-* [NeoForge](java/neoforge)
-* [Paper](java/paper)
-* [Folia](java/folia)
-* [Purpur](java/purpur)
-* [Quilt](java/quilt/)
-* [Spigot](java/spigot)
-* [SpongeForge](java/spongeforge)
-* [SpongeVanilla](java/spongevanilla)
-* [Technic](java/technic)
-* [Vanilla](java/vanilla)
-* [VanillaCord](java/vanillacord)
+## Proxies
 
-## [Proxies](proxy) Minecraft Server Proxies
-
-* [Bedrock](proxy/bedrock)
-  * [Waterdog PE](proxy/bedrock/waterdog_pe)
-* [Cross Platform](proxy/cross_platform)
-  * [GeyserMC](proxy/cross_platform/geyser)
-  * [Waterdog](proxy/cross_platform/waterdog)
-* [Java](proxy/java)
-  * [AlwaysAuth](proxy/java/alwaysauth)
-  * [Bungeecord](proxy/java/bungeecord)
-  * [Travertine](proxy/java/travertine)
-  * [Velocity](proxy/java/velocity)
-  * [VIAaas](proxy/java/viaaas)
-  * [Waterfall](proxy/java/waterfall)
+| Egg | Linux | Windows |
+|---|---|---|
+| [Waterdog PE](proxy/bedrock/waterdog_pe) | ✅ | ❌ |
+| [GeyserMC](proxy/cross_platform/geyser) | ✅ | ❌ |
+| [Waterdog](proxy/cross_platform/waterdog) | ✅ | ❌ |
+| [AlwaysAuth](proxy/java/alwaysauth) | ✅ | ❌ |
+| [Bungeecord](proxy/java/bungeecord) | ✅ | ❌ |
+| [Travertine](proxy/java/travertine) | ✅ | ❌ |
+| [Velocity](proxy/java/velocity) | ✅ | ❌ |
+| [VIAaas](proxy/java/viaaas) | ✅ | ❌ |
+| [Waterfall](proxy/java/waterfall) | ✅ | ❌ |
