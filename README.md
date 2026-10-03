@@ -1,7 +1,7 @@
 # Minecraft
 
-Main advertisement of PWindows Phantom
-**Main priority**
+Main advertisement of PWindows Phantom.
+**Our main priority**
 
 ## Bedrock
 
