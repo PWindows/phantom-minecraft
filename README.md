@@ -19,7 +19,7 @@ Main advertisement of PWindows Phantom.
 |---|---|---|
 | [Cuberite](java/cuberite) | ✅ | ❌ |
 | [CurseForge](java/curseforge) | ✅ | ❌ |
-| [Fabric](java/fabric) | ✅ | ❌ |
+| [Fabric](java/fabric) | ✅ | 🚧 |
 | [Feather](java/feather) | ✅ | ❌ |
 | [Forge](java/forge) | ✅ | ❌ |
 | [Feed The Beast](java/ftb) | ✅ | ❌ |
@@ -32,15 +32,15 @@ Main advertisement of PWindows Phantom.
 | [Mohist](java/mohist) | ✅ | ❌ |
 | [NanoLimbo](java/nanolimbo) | ✅ | ❌ |
 | [NeoForge](java/neoforge) | ✅ | ❌ |
-| [Paper](java/paper) | ✅ | ❌ |
-| [Folia](java/folia) | ✅ | ❌ |
+| [Paper](java/paper) | ✅ | 🚧 |
+| [Folia](java/folia) | ✅ | 🚧 |
 | [Purpur](java/purpur) | ✅ | ❌ |
 | [Quilt](java/quilt/) | ✅ | ❌ |
-| [Spigot](java/spigot) | ✅ | ❌ |
+| [Spigot](java/spigot) | ✅ | 🚧 |
 | [SpongeForge](java/spongeforge) | ✅ | ❌ |
 | [SpongeVanilla](java/spongevanilla) | ✅ | ❌ |
 | [Technic](java/technic) | ✅ | ❌ |
-| [Vanilla](java/vanilla) | ✅ | ❌ |
+| [Vanilla](java/vanilla) | ✅ | 🚧 |
 | [VanillaCord](java/vanillacord) | ✅ | ❌ |
 
 ## Proxies
