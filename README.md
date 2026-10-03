@@ -53,6 +53,6 @@ Main advertisement of PWindows Phantom.
 | [AlwaysAuth](proxy/java/alwaysauth) | ✅ | ❌ |
 | [Bungeecord](proxy/java/bungeecord) | ✅ | ❌ |
 | [Travertine](proxy/java/travertine) | ✅ | ❌ |
-| [Velocity](proxy/java/velocity) | ✅ | ❌ |
+| [Velocity](proxy/java/velocity) | ✅ | 🚧 |
 | [VIAaas](proxy/java/viaaas) | ✅ | ❌ |
 | [Waterfall](proxy/java/waterfall) | ✅ | ❌ |
